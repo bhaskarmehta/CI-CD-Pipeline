@@ -16,7 +16,7 @@ spec:
        spec:
           containers:
              - name: kubernetesimage
-               image: bhasmeht/image5
+               image: bhasmeht/angulartest
                ports:
                   - containerPort: 80
                   
